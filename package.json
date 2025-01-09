@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/qt105/hd-bot/issues"
   },
-  "homepage": "https://github.com/qt105/hd-bot#readme"
+  "homepage": "https://github.com/qt105/hd-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.17.3"
+  }
 }
