@@ -27,3 +27,5 @@ Dans un silence soudain, le Cavalier se tourna vers la foule. "La merde peut div
 
 ### L'après-bataille
 Les habitants, épuisés mais amusés, décidèrent de transformer cette journée chaotique en une nouvelle tradition : non plus un simple tournoi, mais une grande bataille symbolisant leur unité. Les Collines et les Plaines enterrèrent leur querelle, et l’année suivante, ils travaillèrent ensemble à fertiliser les champs, tous fiers d'avoir été les acteurs de **La Grande Bataille de Merde**.
+
+test
