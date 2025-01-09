@@ -1,0 +1,27 @@
+{
+  "name": "hd-bot",
+  "version": "1.0.0",
+  "description": "A discord bot for hetic students",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qt105/hd-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "qt105",
+  "collaborators": [
+    "jsac2001",
+    "alirrobio"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qt105/hd-bot/issues"
+  },
+  "homepage": "https://github.com/qt105/hd-bot#readme"
+}
