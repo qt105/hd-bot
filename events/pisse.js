@@ -8,9 +8,9 @@ module.exports = {
     if (message.author.bot) return false;
 
     triggerWords.forEach((word) => {
-      if (message.content.includes(word)) {
-        message.reply("Est un déchet");
-      }
+        if (message.content.toLowerCase().includes(word.toLowerCase())) {
+            message.reply("Est un déchet");
+        }
     });
 
     if (message.author.id == 142335378064408585) {
