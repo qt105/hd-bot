@@ -4,7 +4,7 @@
   "description": "A discord bot for hetic students",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/qt105/hd-bot/issues"
   },
-  "homepage": "https://github.com/qt105/hd-bot#readme"
+  "homepage": "https://github.com/qt105/hd-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.17.3"
+  }
 }
